@@ -54,3 +54,29 @@ Satisfaction ┃   B - - - ● - - - R ● - - F - ● - - T P ● M W H - D K -
 15. **2015**: `I` Teaching for the first time with Ironhack
     - *Values*: `Confidence`, `Thought-provoking`, `People`, `Accomplishment`,
         `Empathy`, `Appreciation`, `Learning`, `Community`
+
+
+### Top Values ###
+
+- `People`
+- `Thought-provoking`
+- `Empathy`
+- `Appreciation`
+- `Accomplishment`
+- `Learning`
+- `Health`
+
+
+### Core Values ###
+
+1. `People`: Working with interesting, nice and empathetic people.
+Good chemistry in the team makes for an enjoyable working environment.
+I draw a lot of energy from collaborating with good people.
+2. `Thought-provoking`: This is a bad term for it,
+but it's important that I be doing something
+that has me constantly reflecting and thinking about it.
+Something that captivates and fascinates me.
+3. `Empathy`: I care about connecting with and understanding people.
+I try to see things from different points of view.
+4. `Accomplishment`: If I spend my time on something I want it to be meaningful.
+It can be meaningful on a small scale (like a local meetup or a fun app).
