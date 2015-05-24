@@ -53,4 +53,4 @@ Satisfaction ┃   B - - - ● - - - R ● - - F - ● - - T P ● M W H - D K -
     - *Values*: `Health`, `Accomplishment`
 15. **2015**: `I` Teaching for the first time with Ironhack
     - *Values*: `Confidence`, `Thought-provoking`, `People`, `Accomplishment`,
-        `Empathy`, `Appreciation`
+        `Empathy`, `Appreciation`, `Learning`, `Community`
